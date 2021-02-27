@@ -1,3 +1,10 @@
+# [1.0.0-alpha.2](https://github.com/siriwatknp/react-tailwind/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2021-02-27)
+
+
+### Bug Fixes
+
+* 🐛 add publishConfig access public in package.json ([6996951](https://github.com/siriwatknp/react-tailwind/commit/699695123bacb943550ad257007ee9f32809e050))
+
 # 1.0.0-alpha.1 (2021-02-27)
 
 
